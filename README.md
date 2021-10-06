@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adarshtrivedi0810
+- 👋 Hi, I’m @adarshtrivedi0810 Adrash Trivedi
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently pursuing BTech CSE
 - 💞️ I’m looking to collaborate on Best Developers
